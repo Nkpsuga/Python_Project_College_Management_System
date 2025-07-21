@@ -29,3 +29,28 @@ A Python-based College Management System demonstrating OOP concepts like inherit
 4. Polymorphic behavior with display_info() methods
 
 5. Composition: A College object contains a list of students, professors, and courses
+
+
+📌 Sample Output
+
+===== Welcome to ABC College Management System, Code: COL001 =====
+
+--- Courses Offered by ABC College ---
+Course Name: BTech, Course Code: CSE101
+  - Computer Science
+  - Electronics
+  ...
+
+--- Students of ABC College ---
+Name: Kalyani, Age: 21, Student ID: S101, Course: BTech
+
+--- Professors in ABC College ---
+Name: Dr. Rao, Age: 45, Employee ID: P201, Department: Engineering
+
+✅ How to Run
+Make sure Python 3.x is installed
+
+Run the file:
+  python main.py
+
+
