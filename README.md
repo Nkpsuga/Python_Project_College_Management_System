@@ -48,9 +48,9 @@ Name: Kalyani, Age: 21, Student ID: S101, Course: BTech
 Name: Dr. Rao, Age: 45, Employee ID: P201, Department: Engineering
 
 ✅ How to Run
-Make sure Python 3.x is installed
-
-Run the file:
-  python main.py
+  
+  Make sure Python 3.x is installed
+  Run the file:
+      python main.py
 
 
